@@ -1,6 +1,6 @@
 # FTLAssignment
 
-This prject contains a environment file in which all required modules are installed to work on
+This prject contains an environment file in which all required modules are installed to work on.
 
 To work on this project have to activate the virtual environment and then use python manage.py runserver.
 
