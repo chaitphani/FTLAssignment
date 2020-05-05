@@ -1,0 +1,7 @@
+.vscode/*
+
+Ftlproject/__pycache__/*
+
+Ftlapp/__pycache__/*
+
+ftlenv/
