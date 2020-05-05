@@ -1,0 +1,57 @@
+﻿{
+  "ok": true,
+  "Members": [
+    {
+      "id": "W012A3C58",
+      "real_name": "Brady Brown",
+      "tz": "9933 Kelly Center Suite 785\nSouth Eugene, IN 70418",
+      "activity_periods": [
+        {
+          "start_time": "Mar 10 2020 12:30 AM",
+          "end_time": "May 07 2020 12:30 PM"
+        },
+        {
+          "start_time": "Mar 17 2020 12:30 AM",
+          "end_time": "May 08 2020 12:30 PM"
+        },
+        {
+          "start_time": "Apr 15 2020 12:30 AM",
+          "end_time": "May 22 2020 12:30 PM"
+        }
+      ]
+    },
+    {
+      "id": "W012A3C59",
+      "real_name": "Gabriel Shaw",
+      "tz": "9406 Denise Stravenue\nMarquezton, VA 67908",
+      "activity_periods": [
+        {
+          "start_time": "Apr 20 2020 12:30 AM",
+          "end_time": "May 21 2020 12:30 PM"
+        },
+        {
+          "start_time": "Apr 26 2020 12:30 AM",
+          "end_time": "May 22 2020 12:30 PM"
+        }
+      ]
+    },
+    {
+      "id": "W012A3C60",
+      "real_name": "Tina Ayala",
+      "tz": "98613 Norris Forges Apt. 725\nMcknighthaven, OR 33527",
+      "activity_periods": []
+    },
+    {
+      "id": "W012A3C61",
+      "real_name": "Joseph Mccoy",
+      "tz": "3469 Michael Islands\nNew Angela, LA 99071",
+      "activity_periods": []
+    },
+    {
+      "id": "W012A3C62",
+      "real_name": "Robert Saunders",
+      "tz": "30019 Deborah Trail\nWest Jasonberg, IA 40787",
+      "activity_periods": []
+    }
+  ]
+}
